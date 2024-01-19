@@ -15,5 +15,5 @@ This website was generated mainly to document my progress in learning something 
 <!--posts-->
 
 See [Blog](/posts/) for more
-
+{:.read-more}
 ~~~
