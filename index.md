@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Home
-sitemap: false
+sitemap: true
+cover: true
 ---
 
 I am a product manger at a tech company working on datacenter hardware infrastructure solutions focused on management, as a service offerings, and new product offerings for customers. 
