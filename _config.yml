@@ -54,10 +54,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projects
+#    url:               /projects/
   - title:             Résumé
     url:               /resume/
 
