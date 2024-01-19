@@ -8,16 +8,11 @@ order: 1
 
 ## About Me
 
-Hey! I am Michael, a product manger by day and avid gamer/napper/friend/learner whenever not working.</br>
-I currently work at a tech company to develop new product offerings that would help customers monitor,</br>
-manage, and maintain their hybrid cloud infrastructure environments. 
+Hey! I am Michael, a product manger by day and avid gamer/napper/friend/learner whenever not working. I currently work at a tech company to develop new product offerings that would help customers monitor, manage, and maintain their hybrid cloud infrastructure environments. 
 
-In my free time I enjoy playing games, watching shows, hanging out with friends, and when I am motivated</br>
-learning something new through articles, books, courses, videos, friends, etc.
+In my free time I enjoy playing games, watching shows, hanging out with friends, and when I am motivated learning something new through articles, books, courses, videos, friends, etc.
 
-This website was generated mainly to document my progress in learning something new throughout the year. The idea </br>
-behind this is a way to not only hold myself accountable but also to share what I do learn during my journey of </br>
-focusing on progression rather than end results.
+This website was generated mainly to document my progress in learning something new throughout the year. The idea behind this is a way to not only hold myself accountable but also to share what I do learn during my journey of focusing on progression rather than end results.
 
 ## Progression over perfection
 
