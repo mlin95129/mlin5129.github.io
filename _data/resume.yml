@@ -4,14 +4,14 @@
 basics:
   name: "Michael Lin"
   label: "Product Manager"
-  picture: "https://via.placeholder.com/240x240"
+  picture: "/assets/img/custom-logo.png"
   # email: ""
   # phone: ""
   website: "https://mlin95129.github.io/"
   summary: >
     Michael is a Product Manager at Hewlett Packard Enterprise focused on the development of new software management,
     solutions that address key pain points within the IT management field. He has earned a degree from Purdue University
-    and has a background in knowledge management, web development, tech sales. 
+    and has a background in knowledge management, web development, and tech sales. 
   location:
   #  address: ""
   #  postalCode: ""
