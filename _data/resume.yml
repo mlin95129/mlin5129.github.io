@@ -130,9 +130,9 @@ skills:
       - "Javascript"
       - "PHP"
 languages:
-  - language: "English"
+  - language: "Chinese"
     fluency: "Native speaker"
-  - lanaguage: "Chinese"
+  - language: "English"
     fluency: "Native speaker"
 interests:
   - name: "Hobbies"
