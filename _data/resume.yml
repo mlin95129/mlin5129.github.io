@@ -85,11 +85,11 @@ education:
     courses:
       - "Minor: Economics"
       - "Specialization: Software Engineering"
-#awards:
-#  - title: "Digital Compression Pioneer Award"
-#    date: "2014-11-01"
-#    awarder: "Techcrunch"
-#    summary: "There is no spoon."
+certifications:
+  - title: "Google Data Analytics Specialization"
+    date: "2024-01-01"
+    awarder: "Coursera"
+    summary: "Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action"
 publications:
   - name: "Access to Personal Transportation for People with Disabilities with Autonomous Vehicles"
     publisher: "Purdue e-Pubs"
@@ -133,7 +133,7 @@ languages:
   - language: "English"
     fluency: "Native speaker"
   - lanaguage: "Manadarin"
-    fluency: "Intermediate"
+    fluency: "Native speaker"
 interests:
   - name: "Hobbies"
     keywords:
