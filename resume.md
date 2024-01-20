@@ -9,7 +9,7 @@ left_column:
   - work
   - volunteer
   - education
-  - certifications
+  - awards
   - publications
   - references
 right_column:
