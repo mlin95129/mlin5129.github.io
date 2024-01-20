@@ -10,7 +10,7 @@ order: 1
 
 Hey!
 
-I am Michael, a product manger by day and avid gamer/napper/friend/learner whenever not working. I currently work at a tech company to develop new product offerings that would help customers monitor, manage, and maintain their hybrid cloud infrastructure environments. 
+I am Michael, a product manger by day and avid gamer/napper/friend/learner whenever not working. I currently work at Hewlett Packard Enterprise developing new product offerings that would help customers monitor, manage, and maintain their hybrid cloud infrastructure environments. 
 
 In my free time I enjoy playing games, watching shows, hanging out with friends, and when I am motivated learning something new through articles, books, courses, videos, friends, etc.
 
@@ -24,7 +24,7 @@ Although I was recognized for being an efficient and reliable taskmaster the gen
 
 > "Perfection is the focus on the outcome. Progression is the focus on the process"
 
-This quote brought a new perspective I did not think of. Instead of putting so much weight on the outcome of something, finding a balance and enjoying the process of reaching an outcome could be just as rewarding as achieving the outcome itself. Embracing the ambiguity, inevitable failures, picking ourselves up dusting off the pain of messing up, and learning/growing is rewarding in its own way. The **progress** made is as joyful as the **perfect** outcome. 
+This quote brought a new perspective I did not think of. Instead of putting so much weight on the outcome of something, finding a balance and enjoying the process of reaching an outcome could be just as rewarding as achieving the outcome itself. Embracing the ambiguity, inevitable failures, picking ourselves up, dusting off the pain of messing up, and learning/growing is rewarding in its own way. The **progress** made is as joyful as the **perfect** outcome. 
 
 This website is a log of sorts in my continuous journey of progression over perfection, feel free to follow along as I share my frustrations and pitfalls of learning something new, the light bulb moments when something clicks, and general musings of what interests me.
 
