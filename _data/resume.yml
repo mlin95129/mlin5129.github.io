@@ -59,13 +59,43 @@ work:
   - company: "Hewlett Packard Enterprise"
     position: "Channel Presales Solutions Architect"
     website: "https://www.hpe.com/us/en/home.html"
-    startDate: "2020-11-01"
-    endDate: "2022-12-01"
+    startDate: "2018-06-01"
+    endDate: "2020-11-01"
     #summary: >
     highlights:
       - "Managed over 25+ one-to-many traning events for the entire west coast partner community each year"
       - "Generated over $15M in annual sales from customers in SLED, Financial, Healthcare, and Retail industries"
       - "Led key account management and strategy sessions resulting in successful retention of key customers and partners"
+  - company: "Hewlett Packard Enterprise"
+    position: "Associate Product Manager"
+    website: "https://www.hpe.com/us/en/home.html"
+    startDate: "2017-05-01"
+    endDate: "2018-05-01"
+    #summary: >
+    #highlights:
+    #  - ""
+    #  - ""
+    #  - ""
+  - company: "Hewlett Packard Enterprise"
+    position: "Web Development Intern"
+    website: "https://www.hpe.com/us/en/home.html"
+    startDate: "2015-11-01"
+    endDate: "2017-05-01"
+    #summary: >
+    #highlights:
+    #  - ""
+    #  - ""
+    #  - ""
+  - company: "Hewlett Packard"
+    position: "Knowledge Management Intern"
+    website: "https://www.hp.com/us-en/home.html"
+    startDate: "2017-05-01"
+    endDate: "2018-05-01"
+    #summary: >
+    #highlights:
+    #  - ""
+    #  - ""
+    #  - ""
 #volunteer:
 #  - organization: "CoderDojo"
 #    position: "Teacher"
