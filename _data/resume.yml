@@ -144,7 +144,7 @@ skills:
       - "Technical Consulting"
       - "Public Speaking"
   - name: "Data Analysis"
-    level: "Beginner"
+    level: "limited-working-proficiency"
     keywords:
       - "R"
       - "Python"
@@ -152,17 +152,17 @@ skills:
       - "SQL"
       - "Tableau"
   - name: "Web Development"
-    level: "Beginner"
+    level: "limited-working-proficiency"
     keywords:
       - "HTML"
       - "CSS"
       - "Javascript"
       - "PHP"
 languages:
-  - language: "Chinese"
-    fluency: "Native speaker"
   - language: "English"
     fluency: "Native speaker"
+  - language: "Chinese"
+    fluency: "limited-working-proficiency"
 interests:
   - name: "Hobbies"
     keywords:
