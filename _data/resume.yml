@@ -9,7 +9,7 @@ basics:
   # phone: ""
   website: "https://mlin95129.github.io/"
   summary: >
-    Michael is a Product Manager at Hewlett Packard Enterprise focused on the development of new software management,
+    Michael is a Product Manager at Hewlett Packard Enterprise focused on the development of new software management
     solutions that address key pain points within the IT management field. He has earned a degree from Purdue University
     and has a background in knowledge management, web development, and tech sales. 
   location:
@@ -35,7 +35,7 @@ work:
     highlights:
       - "Drive end-to-end customer experience strategy for the HPE compute software portfolio"
       - "Conduct initial product feasibility through market, competitive, and customer analysis"
-      - "Synthesized market requirements into marketing and customer detaisl through business, financial, industry, and market acumen"
+      - "Synthesized market requirements into marketing and customer details through business, financial, industry, and market acumen"
   - company: "Hewlett Packard Enterprise"
     position: "GSI Solutions Architect"
     website: "https://www.hpe.com/us/en/home.html"
