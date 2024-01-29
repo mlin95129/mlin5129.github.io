@@ -111,9 +111,9 @@ education:
     studyType: "Bachelor"
     startDate: "2014-08-01"
     endDate: "2018-05-01"
-    courses:
-      - "Minor: Economics"
-      - "Specialization: Software Engineering"
+#    courses:
+#      - "Minor: Economics"
+#      - "Specialization: Software Engineering"
 #awards:
 #  - title: "Google Data Analytics Specialization"
 #    date: "2024-01-01"
