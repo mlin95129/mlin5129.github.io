@@ -145,7 +145,7 @@ skills:
       - "Technical Consulting"
       - "Public Speaking"
   - name: "Data Analysis"
-    level: "limited-working-proficiency"
+    level: "Beginner"
     keywords:
       - "R"
       - "Python"
@@ -153,7 +153,7 @@ skills:
       - "SQL"
       - "Tableau"
   - name: "Web Development"
-    level: "limited-working-proficiency"
+    level: "Beginner"
     keywords:
       - "HTML"
       - "CSS"
